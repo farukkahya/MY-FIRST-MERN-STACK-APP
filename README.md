@@ -1,7 +1,7 @@
 # MY-FIRST-MERN-STACK-APP
 
 ## Hi everyone! I'm Faruk Kahya and this is my first MERN STACK project.
-___
+
 ### _I used in this project:_
     - MongoDB
     - ExpressJS
