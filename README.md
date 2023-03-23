@@ -1,5 +1,4 @@
 # MY-FIRST-MERN-STACK-APP
-<<<<<<< HEAD
 
 ## Hi everyone! I'm Faruk Kahya and this is my first MERN STACK project.
 ___
@@ -19,5 +18,5 @@ ____
 * **Instagram :** _<https://www.instagram.com/farukmars_/>_
 * **LinkedIn :** _<https://www.linkedin.com/in/faruk-kahya-0a4aa21ba/>_
 * **Twitter :** _<https://twitter.com/marssboi>_
-=======
+
 
