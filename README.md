@@ -12,7 +12,7 @@
     - Redux
     - Axios
     - React Toastify
-____
+
 ## My Social Media Accounts :
 * **Email :**  _<farukkahya55@gmail.com>_
 * **Instagram :** _<https://www.instagram.com/farukmars_/>_
